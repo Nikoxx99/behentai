@@ -8,8 +8,8 @@ const {  data , signOut  } = useAuth()
 
 <template>
     <v-app-bar :elevation="1">
-        <v-toolbar-title>Nuxt3-Vuetify3-Prisma-Auth Boilerplate!</v-toolbar-title>
+        <v-toolbar-title>BH</v-toolbar-title>
         <v-spacer />
-        <v-btn text @click="signOut">Sign Out</v-btn>
+        <v-btn text @click="signOut">Salir</v-btn>
     </v-app-bar>
 </template>

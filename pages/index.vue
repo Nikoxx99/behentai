@@ -1,3 +1,3 @@
 <template>
-  <p>This is your index component!</p>
+  <p>uwu</p>
 </template>
